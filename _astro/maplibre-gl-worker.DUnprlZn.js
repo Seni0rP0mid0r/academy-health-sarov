@@ -1,0 +1,1 @@
+var e=`/academy-health-sarov/_astro/maplibre-gl-worker-DddZ4Wha.js`;export{e as default};
